@@ -30,12 +30,14 @@ main {
   align-items: center;
 }
 
-.header__links-list-item {    margin-left: 33px;
+.header__links-list-item {
+  margin-left: 33px;
   margin-top: 2px;
   list-style: circle;
 }
 
-.header__links-list-item_no-bullit {    margin-left: 0;
+.header__links-list-item_no-bullit {
+  margin-left: 0;
   list-style: none;
 }
 
