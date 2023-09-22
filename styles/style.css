@@ -48,7 +48,7 @@ main {
 .header__logo {
   margin-bottom: 4px;
   margin-right: 146px;
-  width: 136px;
+  width: 148px;
   height: 105px;
   flex-shrink: 0;
 }
@@ -118,13 +118,13 @@ main {
   text-align: end;
 }
 
-.aligned-text_add-letter-space {
+.aligned-text_add-letter-spacing {
   display: inline;
   letter-spacing: 0.6em;
   margin-left: -53px;
 }
 
-.aligned-text_remove-letter-space {
+.aligned-text_remove-letter-spacing {
   display: inline;
   letter-spacing: 0.1em;
 }
@@ -190,6 +190,7 @@ main {
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: space-between;
+  flex-grow: 1;
 }
 
 .lots__card-list-item {
@@ -361,7 +362,7 @@ main {
   text-transform: lowercase;
   display: flex;
   flex-direction: column;
-  list-style: none;
+  list-style: circle;
   align-items: center;
 }
 
