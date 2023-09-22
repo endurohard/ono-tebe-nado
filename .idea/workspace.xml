@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ddd534e9-a725-4407-abf6-1a4e3f18c6c7" name="Changes" comment="Исправил Маркировку li" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2VJ6TqUKpRanqDOZG08YdWoI0fh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/bagamedovyusup/Desktop/dev/ono-tebe-nado&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ddd534e9-a725-4407-abf6-1a4e3f18c6c7" name="Changes" comment="" />
+      <created>1694541847384</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694541847384</updated>
+      <workItem from="1694541848493" duration="2694000" />
+      <workItem from="1694550916005" duration="276000" />
+      <workItem from="1695019082818" duration="5261000" />
+    </task>
+    <task id="LOCAL-00001" summary="Исправил шрифт">
+      <option name="closed" value="true" />
+      <created>1694542947454</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1694542947454</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Исправил шрифт">
+      <option name="closed" value="true" />
+      <created>1694543154868</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1694543154868</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Исправил шрифт">
+      <option name="closed" value="true" />
+      <created>1694543825232</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1694543825233</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Исправил шрифт">
+      <option name="closed" value="true" />
+      <created>1694551088016</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1694551088016</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Исправил Маркировку li">
+      <option name="closed" value="true" />
+      <created>1695196579489</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1695196579489</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Исправил Маркировку li">
+      <option name="closed" value="true" />
+      <created>1695364848370</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1695364848370</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Исправил шрифт" />
+    <MESSAGE value="Исправил Маркировку li" />
+    <option name="LAST_COMMIT_MESSAGE" value="Исправил Маркировку li" />
+  </component>
+</project>
