@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ddd534e9-a725-4407-abf6-1a4e3f18c6c7" name="Changes" comment="добавил затемнение карточкам">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    <list default="true" id="ddd534e9-a725-4407-abf6-1a4e3f18c6c7" name="Changes" comment="поправил кнопку ставка">
+      <change beforePath="$PROJECT_DIR$/styles/global.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/global.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +49,7 @@
       <workItem from="1694541848493" duration="2694000" />
       <workItem from="1694550916005" duration="276000" />
       <workItem from="1695019082818" duration="7161000" />
-      <workItem from="1695389719804" duration="1577000" />
+      <workItem from="1695389719804" duration="4401000" />
     </task>
     <task id="LOCAL-00001" summary="Исправил шрифт">
       <option name="closed" value="true" />
@@ -146,7 +147,23 @@
       <option name="project" value="LOCAL" />
       <updated>1695393337617</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="поправил кнопку ставка">
+      <option name="closed" value="true" />
+      <created>1695394267527</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1695394267527</updated>
+    </task>
+    <task id="LOCAL-00014" summary="поправил кнопку ставка">
+      <option name="closed" value="true" />
+      <created>1695394278566</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1695394278566</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -157,6 +174,7 @@
     <MESSAGE value="Исправил Маркировку li" />
     <MESSAGE value="добавил тег head" />
     <MESSAGE value="добавил затемнение карточкам" />
-    <option name="LAST_COMMIT_MESSAGE" value="добавил затемнение карточкам" />
+    <MESSAGE value="поправил кнопку ставка" />
+    <option name="LAST_COMMIT_MESSAGE" value="поправил кнопку ставка" />
   </component>
 </project>
