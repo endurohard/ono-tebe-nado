@@ -1,3 +1,3 @@
 https://github.com/endurohard/ono-tebe-nado
 https://github.com/endurohard/ono-tebe-nado/index.html
-http://htmlpreview.github.com/?https://github.com/ebdurohard/impress.js/blob/master/index.html
+https://endurohard.github.io/ono-tebe-nado/index.html
