@@ -3,17 +3,21 @@ main {
 }
 
 .header {
-  margin-bottom: 92px;
   width: 100%;
 }
 
-.header__menu {
-  margin: 92px 50px auto 50px;
+.header_menu_configuration{
+
   display: flex;
-  flex-direction: row;
   justify-content: space-between;
   align-items: center;
-}
+  padding: 92px 49px 96px 51px;
+  }
+
+.header__menu {
+
+  justify-content: space-between;
+ }
 
 .header__links-list {
   text-transform: lowercase;
@@ -43,6 +47,11 @@ main {
 
 .header__links-list-item_no-bullit a {
   text-decoration: none;
+}
+
+.header__logo-image{
+  width: 148px;
+  height: 105px;
 }
 
 .header__logo {
@@ -164,8 +173,9 @@ main {
 }
 
 .lots {
-  margin: 180px 50px 0 50px;
+  margin: 180px 0px 0px;
   flex-shrink: 0;
+
 }
 
 .lots__heading {
@@ -181,21 +191,21 @@ main {
 
 .lots__card-list {
   list-style: none;
+
   margin-top: 27px;
   width: 100%;
   display: flex;
   flex-direction: row;
-  flex-wrap: wrap;
-  justify-content: space-between;
+  gap: 25px;
   flex-grow: 1;
+  align-items: center;
 
 }
 
 .lots__card-list-item {
   height: 450px;
   width: 430px;
-
-}
+  }
 
 .card-link {
   text-decoration: none;
@@ -206,7 +216,9 @@ main {
 }
 
 .card {
-  display: block;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
   height: 100%;
   width: 100%;
   position: relative;
@@ -256,6 +268,9 @@ main {
   line-height: 120%;
   text-decoration-line: underline;
   text-transform: uppercase;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
 
 .card__text {
@@ -265,6 +280,9 @@ main {
   font-style: normal;
   font-weight: 400;
   line-height: 120%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
 
 .lots__look-more-link {
@@ -290,7 +308,7 @@ main {
   margin: 180px 50px 0 50px;
   width: 1340px;
   display: grid;
-  gap: 0px 25px;
+
   grid-auto-flow: column;
   align-items: end;
 }
@@ -418,10 +436,8 @@ li {
 }
 
 body {
-  margin-left: auto;
-  margin-right: auto;
   font-family: Raleway, sans-serif;
   display: grid;
   justify-content: center;
-  width: 100%;
+
 }
