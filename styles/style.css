@@ -311,6 +311,7 @@ main {
   width: 240px;
   padding: 63px 46px;
   background-color: #000;
+  position: static;
 }
 
 .about__title {

@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ddd534e9-a725-4407-abf6-1a4e3f18c6c7" name="Changes" comment="fix bugs">
+    <list default="true" id="ddd534e9-a725-4407-abf6-1a4e3f18c6c7" name="Changes" comment="fix bugs2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/global.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/global.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +53,7 @@
       <workItem from="1694550916005" duration="276000" />
       <workItem from="1695019082818" duration="7161000" />
       <workItem from="1695389719804" duration="20688000" />
-      <workItem from="1697307753254" duration="1143000" />
+      <workItem from="1697307753254" duration="3641000" />
     </task>
     <task id="LOCAL-00001" summary="Исправил шрифт">
       <option name="closed" value="true" />
@@ -192,7 +191,23 @@
       <option name="project" value="LOCAL" />
       <updated>1697224029308</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="fix bugs2">
+      <option name="closed" value="true" />
+      <created>1697309180659</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1697309180659</updated>
+    </task>
+    <task id="LOCAL-00019" summary="fix bugs2">
+      <option name="closed" value="true" />
+      <created>1697309207997</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1697309207997</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -217,6 +232,7 @@
     <MESSAGE value="поправил кнопку ставка" />
     <MESSAGE value="поправил body" />
     <MESSAGE value="fix bugs" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix bugs" />
+    <MESSAGE value="fix bugs2" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix bugs2" />
   </component>
 </project>
