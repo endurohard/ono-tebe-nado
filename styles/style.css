@@ -287,7 +287,6 @@ main {
 
 .about {
   margin: 180px 50px 0 50px;
-
   display: grid;
   gap: 0px 25px;
   grid-auto-flow: column;
@@ -295,7 +294,7 @@ main {
 }
 
 .about__column {
-  display: flex;
+  display: grid;
   flex-direction: column;
 }
 
