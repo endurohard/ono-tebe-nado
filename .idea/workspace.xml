@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ddd534e9-a725-4407-abf6-1a4e3f18c6c7" name="Changes" comment="fix bugs4">
+    <list default="true" id="ddd534e9-a725-4407-abf6-1a4e3f18c6c7" name="Changes" comment="fix bugs5">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +53,7 @@
       <workItem from="1694550916005" duration="276000" />
       <workItem from="1695019082818" duration="7161000" />
       <workItem from="1695389719804" duration="20688000" />
-      <workItem from="1697307753254" duration="4906000" />
+      <workItem from="1697307753254" duration="8839000" />
     </task>
     <task id="LOCAL-00001" summary="Исправил шрифт">
       <option name="closed" value="true" />
@@ -221,7 +223,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697397177891</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="fix bugs5">
+      <option name="closed" value="true" />
+      <created>1697397761890</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1697397761890</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -248,6 +258,7 @@
     <MESSAGE value="fix bugs" />
     <MESSAGE value="fix bugs2" />
     <MESSAGE value="fix bugs4" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix bugs4" />
+    <MESSAGE value="fix bugs5" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix bugs5" />
   </component>
 </project>
