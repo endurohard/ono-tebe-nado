@@ -290,7 +290,7 @@ main {
 
 .about {
   max-width: 1340px;
-  margin: 212px 50px 0px 50px;
+  margin: 188px 50px 0px 50px;
   display: grid;
   grid-template-columns: 430px 1fr;
 
@@ -354,7 +354,7 @@ main {
 }
 
 .footer {
-  margin: 180px 50px 90px 50px;
+  margin: 187px 50px 90px 50px;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
