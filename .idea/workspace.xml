@@ -17,6 +17,19 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="e40fe509-b6c6-40ea-8cc8-5775110364b8" />
+        <option name="url" value="https://github.com/endurohard/ono-tebe-nado.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -53,7 +66,7 @@
       <workItem from="1695019082818" duration="7161000" />
       <workItem from="1695389719804" duration="20688000" />
       <workItem from="1697307753254" duration="14227000" />
-      <workItem from="1704102707838" duration="6665000" />
+      <workItem from="1704102707838" duration="7271000" />
     </task>
     <task id="LOCAL-00001" summary="Исправил шрифт">
       <option name="closed" value="true" />
@@ -295,7 +308,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705901152202</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="about_css">
+      <option name="closed" value="true" />
+      <created>1706003583190</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1706003583190</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
